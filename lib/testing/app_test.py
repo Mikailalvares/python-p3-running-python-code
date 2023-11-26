@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from __future__ import print_function  # Add this import line
 from os import path
 import runpy
 import io
